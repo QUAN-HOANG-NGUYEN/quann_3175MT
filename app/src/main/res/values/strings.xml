@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">quann_3175MT</string>
+    <string name="editTextParentName">Parent Name</string>
+    <string name="StudentName">QUAN NGUYEN 300371379</string>
+    <string-array name="campTypes">
+        <item>Soccer Goals</item>
+        <item>Theatre Acts</item>
+        <item>Karate Kicks</item>
+    </string-array>
+</resources>
